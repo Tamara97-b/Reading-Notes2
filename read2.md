@@ -1,45 +1,25 @@
+# react lifecycle
 ## Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
-‘render’
-
+When a component is mounted it is being inserted into the DOM. This is when a constructor is called. componentWillMount is pretty much synonymous with a constructor and is invoked around the same time. componentDidMount will only be called once after the first render. 
 ## What is the very first thing to happen in the lifecycle of React?
-Mounting
+The key difference between props and state is that state is internal and controlled by the component itself while props are external and controlled by whatever renders the component.
 
+## Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates
+## What does componentDidMount do?
+onstructor
+getDerivedStateFromProps
+render
+componentDidMount
+componentWillUnmount
+ ## What types of things can you pass in the props?
+ any data type,
+## What is the big difference between props and state?
+state is internal and controlled by the component itself
+props are external and controlled by whatever renders the component
+## When do we re-render our application?
+whenever there is a change in their state or props
+## What are some examples of things that we could store in state?
+ if we have form and will be updated by users
 
-
-# Rebuilt with React
-React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery.
-
-Bootstrap at its core
-Built with compatibility in mind, we embrace our bootstrap core and strive to be compatible with the world's largest UI ecosystem.
-
-Accessible by default
-The React component model gives us more control over form and function of each component.
-
-Give your sites the edge
-Create amazing experiences for the web in record time—without thinking once about servers or devops.
-
-
-
-
-
-## What types of things can you pass in the props?
-Be sure to pass props as an argument to the entire functional component first. When referencing a prop, it must be in curly braces.
-
-If we are passing the prop to a class component, it will look slightly different.
-
-What is the big difference between props and state?
-The key difference between props and state is that state is internal and controlled by the component itself while props are external and controlled by whatever renders the component. State can be changed (Mutable) Whereas Props can't (Immutable)
-
-
-
-
-## What Are We Building?
-In this tutorial, we’ll show how to build an interactive tic-tac-toe game with React.
-
-You can see what we’ll be building here: Final Result. If the code doesn’t make sense to you, or if you are unfamiliar with the code’s syntax, don’t worry! The goal of this tutorial is to help you understand React and its syntax.
-
-Setup Option 1: Write Code in the Browser
-Setup Option 2: Local Development Environment
-Prerequisites
-We’ll assume that you have some familiarity with HTML and JavaScript, but you should be able to follow along even if you’re coming from a different programming language. We’ll also assume that you’re familiar with programming concepts like functions, objects, arrays, and to a lesser extent, classes.
-
+ ## Things I want to know more about
+ more about state
