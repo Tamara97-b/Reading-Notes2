@@ -26,3 +26,4 @@
 |read5|[read5](read5.md)|
 |read6|[read6](read6.md)|
 |read7|[read7](read7.md)|
+|read8|[read8](read8.md)|
