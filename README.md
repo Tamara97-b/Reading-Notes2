@@ -43,7 +43,7 @@
 
 | Files |          Link          |
 | ----- | :--------------------: |
-| read401-1 | [read401-1] (read401-1.md) |
+| read401-1 | [read401-1] (/home/tamara/Reading-Notes2/read401-1.md) |
 
 | | |
 | | |
