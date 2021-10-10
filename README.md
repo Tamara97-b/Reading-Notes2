@@ -44,7 +44,6 @@
 | Files      |           Link            |
 | ---------- | :-----------------------: |
 | java basic | [read401-1](read401-1.md) |
-
 |array loop and import | [read401-2](read401-2.md)|
 
 | | |
