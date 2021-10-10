@@ -39,11 +39,12 @@
 | read14 | [read14](read14.md) |
 | read15 | [read15](read15.md) |
 
-# reading notes 401
+# reading notes 401  Advanced Software Development
 
-| Files |          Link          |
-| ----- | :--------------------: |
-| read401-1 | [read401-1](read401-1.md) |
+| Files      |           Link            |
+| ---------- | :-----------------------: |
+| java basic | [read401-1](read401-1.md) |
 
-| | |
+|array loop and import | [read401-2](read401-2.md)|
+
 | | |
