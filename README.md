@@ -45,5 +45,4 @@
 | ---------- | :-----------------------: |
 | java basic | [read401-1](read401-1.md) |
 |array loop and import | [read401-2](read401-2.md)|
-
 | map file1/0 permitives| [read401-3](read401-3.md)|
