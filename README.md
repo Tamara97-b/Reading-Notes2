@@ -49,3 +49,4 @@
 |oop|[read401-4](read401-4.md)|
 |big O and linkedList|[read401-5](read401-5.md)
 |iheritance and interfaces |[read401-6](read401-6.md)
+|DRY,WET,YGNI|[read401-](read401-8.md)
