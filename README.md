@@ -53,3 +53,4 @@
 |WRRC and java|[read401-9](read401-9.md)|
 |Stack and Queues|[read401-10](read401-10.md)|
 |Spring|[read401-11](read401-11.md)|
+|Spring RESTful Routing & Static Files|[read401-12](read401-12.md)|
