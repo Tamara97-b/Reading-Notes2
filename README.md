@@ -54,3 +54,4 @@
 |Stack and Queues|[read401-10](read401-10.md)|
 |Spring|[read401-11](read401-11.md)|
 |Spring RESTful Routing & Static Files|[read401-12](read401-12.md)|
+|Related Resources and Integration Testing|[read401-13](read401-13.md)|
