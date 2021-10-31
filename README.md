@@ -57,3 +57,5 @@
 |Related Resources and Integration Testing|[read401-13](read401-13.md)|
 |Trees|[read401-14](read401-14.md)|
 |Spring Authentication|[read401-15](read401-15.md)|
+|Spring Authorization|[read401-16](read401-16.md)|
+
