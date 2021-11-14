@@ -61,3 +61,4 @@
 |Web App Security|[read401-17](read401-17.md)|
 |Spring and Sockets|[read401-18](read401-18.md)|
 | Android Fundamentals|[read401-19](read401-19.md)|
+|Intents, Activities, and SharedPreferences|[read401-20](read401-20.md)|
