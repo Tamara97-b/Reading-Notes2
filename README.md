@@ -41,10 +41,8 @@
 
 # reading notes 401  Advanced Software Development
 
-| Files      |           Link            |
-| ---------- | :-----------------------: |
-| java basic | [read401-1](read401-1.md) |
-|array loop and import | [read401-2](read401-2.md)|
+
+
 | map file1/0 permitives| [read401-3](read401-3.md)|
 |oop|[read401-4](read401-4.md)|
 |big O and linkedList|[read401-5](read401-5.md)|
@@ -64,3 +62,4 @@
 |Intents, Activities, and SharedPreferences|[read401-20](read401-20.md)|
 |recycle view|[read401-21](read401-21.md)|
 |Room|[read401-22](read401-22.md)|
+|Hash Tables|[read401-23](read401-23.md)|
