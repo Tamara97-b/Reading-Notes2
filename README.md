@@ -39,28 +39,28 @@
 | read14 | [read14](read14.md) |
 | read15 | [read15](read15.md) |
 
-# reading notes 401  Advanced Software Development
+# reading notes 401 Advanced Software Development
 
-
-
-| map file1/0 permitives| [read401-3](read401-3.md)|
-|oop|[read401-4](read401-4.md)|
-|big O and linkedList|[read401-5](read401-5.md)|
-|iheritance and interfaces |[read401-6](read401-6.md)|
-|DRY,WET,YGNI|[read401-8](read401-8.md)|
-|WRRC and java|[read401-9](read401-9.md)|
-|Stack and Queues|[read401-10](read401-10.md)|
-|Spring|[read401-11](read401-11.md)|
-|Spring RESTful Routing & Static Files|[read401-12](read401-12.md)|
-|Related Resources and Integration Testing|[read401-13](read401-13.md)|
-|Trees|[read401-14](read401-14.md)|
-|Spring Authentication|[read401-15](read401-15.md)|
-|Spring Authorization|[read401-16](read401-16.md)|
-|Web App Security|[read401-17](read401-17.md)|
-|Spring and Sockets|[read401-18](read401-18.md)|
-| Android Fundamentals|[read401-19](read401-19.md)|
-|Intents, Activities, and SharedPreferences|[read401-20](read401-20.md)|
-|recycle view|[read401-21](read401-21.md)|
-|Room|[read401-22](read401-22.md)|
-|Hash Tables|[read401-23](read401-23.md)|
-|Esspreso|[read401-24](read401-24.md)|
+| Files                                      |            Link             |
+| ------------------------------------------ | :-------------------------: |
+| map file1/0 permitives                     |  [read401-3](read401-3.md)  |
+| oop                                        |  [read401-4](read401-4.md)  |
+| big O and linkedList                       |  [read401-5](read401-5.md)  |
+| iheritance and interfaces                  |  [read401-6](read401-6.md)  |
+| DRY,WET,YGNI                               |  [read401-8](read401-8.md)  |
+| WRRC and java                              |  [read401-9](read401-9.md)  |
+| Stack and Queues                           | [read401-10](read401-10.md) |
+| Spring                                     | [read401-11](read401-11.md) |
+| Spring RESTful Routing & Static Files      | [read401-12](read401-12.md) |
+| Related Resources and Integration Testing  | [read401-13](read401-13.md) |
+| Trees                                      | [read401-14](read401-14.md) |
+| Spring Authentication                      | [read401-15](read401-15.md) |
+| Spring Authorization                       | [read401-16](read401-16.md) |
+| Web App Security                           | [read401-17](read401-17.md) |
+| Spring and Sockets                         | [read401-18](read401-18.md) |
+| Android Fundamentals                       | [read401-19](read401-19.md) |
+| Intents, Activities, and SharedPreferences | [read401-20](read401-20.md) |
+| recycle view                               | [read401-21](read401-21.md) |
+| Room                                       | [read401-22](read401-22.md) |
+| Hash Tables                                | [read401-23](read401-23.md) |
+| Espresso                                   | [read401-24](read401-24.md) |
