@@ -64,3 +64,4 @@
 | Room                                       | [read401-22](read401-22.md) |
 | Hash Tables                                | [read401-23](read401-23.md) |
 | Espresso                                   | [read401-24](read401-24.md) |
+| Serverless and Amplify                     | [read401-25](read401-25.md) |
