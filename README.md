@@ -66,3 +66,4 @@
 | Espresso                                   | [read401-24](read401-24.md) |
 | Serverless and Amplify                     | [read401-25](read401-25.md) |
 | GraphQL @connection                        | [read401-26](read401-26.md) |
+| Monetization                               | [read401-27](read401-27.md) |
