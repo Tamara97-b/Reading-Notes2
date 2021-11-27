@@ -68,3 +68,4 @@
 | GraphQL @connection                        | [read401-26](read401-26.md) |
 | Monetization                               | [read401-27](read401-27.md) |
 | Graph                                      | [read401-28](read401-28.md) |
+| Cognito                                    | [read401-29](read401-29.md) |
