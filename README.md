@@ -71,3 +71,4 @@
 | Cognito                                    | [read401-29](read401-29.md) |
 | s3                                         | [read401-30](read401-30.md) |
 | Notification                               | [read401-31](read401-31.md) |
+| Kinesis                                    | [read401-31](read401-31.md) |
