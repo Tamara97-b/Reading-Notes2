@@ -72,3 +72,4 @@
 | s3                                         | [read401-30](read401-30.md) |
 | Notification                               | [read401-31](read401-31.md) |
 | Kinesis                                    | [read401-32](read401-32.md) |
+| Intent Filters                             | [read401-32](read401-33.md) |
